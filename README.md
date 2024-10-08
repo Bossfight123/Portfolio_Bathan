@@ -8,7 +8,7 @@ I performed operations including join tables to create a primary table summarizi
 
 What is the total amount each customer spent at the restaurant? How many days has each customer visited the restaurant? What was the first item from the menu purchased by each customer? What is the most purchased item on the menu and how many times was it purchased by all customers? Which item was the most popular for each customer?
 
-https://github.com/Bossfight123/Portfolio_Bathan/commit/ccf73790b9f00a6b336c9cfbe3270b52d2455020
+![](https://github.com/Bossfight123/Portfolio_Bathan/commit/ccf73790b9f00a6b336c9cfbe3270b52d2455020)
 
 # [E-Commerce-Database-System](https://github.com/Bossfight123/E-Commerce-Database-System)
 
